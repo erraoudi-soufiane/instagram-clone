@@ -52,10 +52,11 @@ function Sidenav() {
           <span>Create</span>
         </button>
 
-        <div className="sidenav__button">
+        <button className="sidenav__button sidenav__more" >
           <MenuIcon />
           <span>More</span>
-        </div>
+        </button>
+        
       </div>
     </div>
 
